@@ -114,7 +114,7 @@ Para testar e replicar o pipeline, o usuário deve:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/personal-finance-pipeline.git
+git clone https://github.com/friszao-dev/personal-finance-pipeline.git
 ```
 
 ### 2. Criar e ativar o ambiente virtual
