@@ -1,6 +1,3 @@
-select count(*) from raw_gastos rg 
-
-select * from raw_gastos rg 
 
 -- Total gasto por categoria por mês — GROUP BY básico
 select sum(valor) as valor, item from raw_gastos
